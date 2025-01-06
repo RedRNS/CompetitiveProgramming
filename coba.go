@@ -15,5 +15,5 @@ func main() {
 		total += n
 		fmt.Scan(&n)
 	}
-	fmt.Print(total/pembagi + 2)
+	fmt.Print(total/pembagi + 100)
 }
